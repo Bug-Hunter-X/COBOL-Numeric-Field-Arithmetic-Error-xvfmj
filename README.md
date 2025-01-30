@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in COBOL related to arithmetic operations on numeric fields. The bug occurs when a numeric field is inadvertently populated with non-numeric data before an arithmetic operation is performed. This can lead to unexpected results or program termination. The solution involves adding data validation to prevent such cases.
